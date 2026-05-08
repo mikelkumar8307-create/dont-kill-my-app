@@ -1,4 +1,4 @@
----
+https://github.com/RikkaApps/Shizuku.git---
 manufacturer: 
     - oppo
 
